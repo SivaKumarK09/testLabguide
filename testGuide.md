@@ -4,7 +4,12 @@
 --
 
 
-<inject key="VMPassword"></inject>
+VMPassword <inject key="VMPassword"></inject>
+VMPrivateIPAddress <inject key="VMPrivateIPAddress"></inject>
+VMPublicIPAddress <inject key="VMPassword"></inject>
+Domain <inject key="Domain"></inject>
+Username <inject key="Username"></inject>
+AzureAdUserPassword <inject key="AzureAdUserPassword"></inject>
 QA Inject test
 
 Code Block Test----
