@@ -11,6 +11,11 @@ Domain <inject key="Domain"></inject></br>
 Username <inject key="Username"></inject></br>
 AzureAdUserPassword <inject key="AzureAdUserPassword"></inject></br>
 tenantdomainname <inject key="tenantdomainname"></inject></br>
+OCI Sign-in link <inject key="OCI Sign-in link"></inject></br>
+OCI Cloud Account Name <inject key="OCI Cloud Account Name"></inject></br>
+OCI Domain <inject key="OCI Domain"></inject></br>
+OCI Region <inject key="OCI Region"></inject></br>
+
 
 QA Inject test
 
